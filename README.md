@@ -119,8 +119,11 @@ input, textarea {
 # Final Output
 
 i.   / – Shows your portfolio homepage
+
 ii.  /contact – Contact form page
+
 iii. Styles applied using CSS
+
 iv.  Flask handles routing and form data
 
 
